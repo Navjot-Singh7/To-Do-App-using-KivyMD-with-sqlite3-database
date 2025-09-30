@@ -26,8 +26,8 @@ A **beautiful and efficient** todo application built with Python and KivyMD, fea
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Navjot-Singh7/smart-todo-app.git
-cd smart-todo-app
+git clone https://github.com/Navjot-Singh7/To-Do-App-using-KivyMD-with-sqlite3-database.git
+cd To-Do-App-using-KivyMD-with-sqlite3-database
 ```
 
 1. Install dependencies
