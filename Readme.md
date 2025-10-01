@@ -1,6 +1,6 @@
 # ✅ Smart Todo App
 
-A **beautiful and efficient** todo application built with Python and KivyMD, featuring SQLite database integration and a sleek material design interface.
+A **beautiful and efficient** todo application built with Python and KivyMD, featuring SQLite database integration and a sleek material design interface. Build entirely on mobile with no access to Desktop/Laptop.
 
 ## ✨ Features
 
