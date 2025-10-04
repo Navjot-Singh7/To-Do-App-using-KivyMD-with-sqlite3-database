@@ -30,7 +30,7 @@ def get_tasks():
 	
 	return c.fetchall()
 
-#print(get_tasks())
+print(get_tasks())
 
 def delete_tasks(task_name):
 	conn = sqlite3.connect("todo.db")
